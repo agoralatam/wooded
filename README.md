@@ -8,7 +8,7 @@ Este enfoque facilita el reconocimiento y mapeo de la superficie de ataque, perm
 Esta herramienta se centra en **entornos educativos y autorizados**, proporcionando un entorno controlado para evaluar la resistencia frente a amenazas de este tipo. Es ideal para realizar auditorías de seguridad, pruebas de capacitaciones en ciberseguridad.
 
 ---
-![Captura de pantalla]([https://raw.githubusercontent.com/agoralatam/barrette/refs/heads/main/image/imagen.png](https://i.ibb.co/wNgXCVQq/a-digital-illustration-of-a-terminal-win-mxk5-Dmh-YTPGMg-WOMew-POFA-Ysirh6-PRXyn-LMLgu-Ii2-DA.jpg))
+![Captura de pantalla](https://i.ibb.co/wNgXCVQq/a-digital-illustration-of-a-terminal-win-mxk5-Dmh-YTPGMg-WOMew-POFA-Ysirh6-PRXyn-LMLgu-Ii2-DA.jpg)
 ---
 ## Características Principales  
 - **Protocolos Soportados**:  
