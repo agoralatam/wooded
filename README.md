@@ -10,43 +10,32 @@ Esta herramienta se centra en **entornos educativos y autorizados**, proporciona
 ---
 ![Captura de pantalla](https://i.ibb.co/wNgXCVQq/a-digital-illustration-of-a-terminal-win-mxk5-Dmh-YTPGMg-WOMew-POFA-Ysirh6-PRXyn-LMLgu-Ii2-DA.jpg)
 ---
-## Características Principales  
-- **Protocolos Soportados**:  
-  - **TCP**   
-  - **UDP**
-  - **ICMP**
+## Funciones actuales/futuras
+- **ACTUALES**:  
+  - **Reconstrucción del árbol de directorios**   
+  - **Catalogación de archivos en: alta, media, baja**  
+  - **Vínculo directo (path) a archivos y directorios**  
+  - **Muestra de archivos agrupados por tipo de extensión**
 
-- **Tipos de Ataques**:
-  - **ICMP Land Attack**
-  - **SYN Land Attack**
-  - **TCP Land Attack**
-  - **UDP Land Attack**
-  - **SYN Flood Attack**
-  - **ICMP Smurf Attack**
-  - **TCP Smurf Attack**
-  - **UDP Smurf Attack**
-  - **Ping Death Attack** 
+- **FUTURAS**:
+  - **Descarga de archivos**
+  - **Clonacion del arbol de directorios en local**
+  - **Almacenamiento del output en formato .txt**
+  - **Evacion de redirecciones**
+  - **Envio de cabeceras en las solicitudes**
 ---
 
-## Requisitos del Sistema  
-- **Sistema Operativo**: Linux  
-- **Permisos:** Root
----
 
 ## Instalación y uso
 1. **Clonar el repositorio**:
   ```bash
-    git clone https://github.com/tu_usuario/barrette.git
+    git clone https://github.com/agoralatam/wooded.git
   ```
 3. **Entrar a el directorio**:
   ```bash 
-   cd barrette
+   cd wooded
   ```
-4.  **Otorgar permisos**:
+4.  **Ejecutar script**:
   ```bash 
-   chmod 777 * && chmod 777 modules_attack/*
-  ```
-5. **Instalación de dependencias:**
-  ```bash 
-   bash install.sh
+   python3 -u example.com
   ```
