@@ -18,13 +18,17 @@ Esta herramienta se centra en **entornos educativos y autorizados**, proporciona
   - **Muestra de archivos agrupados por tipo de extensión**
 
 - **FUTURAS**:
-  - **Descarga de archivos**
-  - **Clonacion del arbol de directorios en local**
-  - **Almacenamiento del output en formato .txt**
-  - **Evacion de redirecciones**
-  - **Envio de cabeceras en las solicitudes**
+  - **Descarga de archivos**  
+  - **Clonación del árbol de directorios en local**  
+  - **Almacenamiento del output en formato .txt**  
+  - **Evasión de redirecciones**  
+  - **Envío de cabeceras en las solicitudes**
 ---
 
+## Opciones de uso
+![Captura de pantalla](https://i.ibb.co/N6xXLf7z/rassssssss.png)
+
+---
 
 ## Instalación y uso
 1. **Clonar el repositorio**:
