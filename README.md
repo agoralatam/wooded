@@ -9,7 +9,7 @@ Este enfoque facilita el reconocimiento y mapeo de la superficie de ataque, perm
 >Esta herramienta se ha creado con fines educativos y de pruebas en entornos controlados. El uso no autorizado no es responsabilidad del desarrollador
 
 ---
-![Captura de pantalla](https://i.ibb.co/wNgXCVQq/a-digital-illustration-of-a-terminal-win-mxk5-Dmh-YTPGMg-WOMew-POFA-Ysirh6-PRXyn-LMLgu-Ii2-DA.jpg)
+![Captura de pantalla](https://raw.githubusercontent.com/agoralatam/wooded/refs/heads/main/media/img.png)
 ---
 ## Funciones actuales/futuras
 - **ACTUALES**:  
