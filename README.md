@@ -7,7 +7,7 @@ Este enfoque facilita el reconocimiento y mapeo de la superficie de ataque, perm
 
 Esta herramienta se centra en **entornos educativos y autorizados**, proporcionando un entorno controlado para evaluar la resistencia frente a amenazas de este tipo. Es ideal para realizar auditorías de seguridad, pruebas de capacitaciones en ciberseguridad.
 
-[!WARNING]
+[!NOTE]
 Esta herramienta se ha creado con fines educativos y de pruebas en entornos controlados. El uso no autorizado no es responsabilidad del desarrollador
 
 ---
