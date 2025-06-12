@@ -43,3 +43,8 @@ Esta herramienta se centra en **entornos educativos y autorizados**, proporciona
   ```bash 
    python3 -u example.com
   ```
+## Video
+https://github.com/user-attachments/assets/5b75be25-8769-41fb-9d37-89f8c59435de
+
+---
+
