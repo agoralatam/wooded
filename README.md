@@ -5,8 +5,6 @@ Esta herramienta desarrollada en Python está diseñada para analizar sitios web
 
 Este enfoque facilita el reconocimiento y mapeo de la superficie de ataque, permitiendo a los profesionales de ciberseguridad y pentesters obtener una visión clara de la estructura y posibles puntos vulnerables de un sitio web. La herramienta es ideal para automatizar la recopilación de información y preparar análisis posteriores más profundos, ayudando a identificar archivos expuestos o configuraciones inapropiadas que podrían comprometer la seguridad del servidor.
 
-Esta herramienta se centra en **entornos educativos y autorizados**, proporcionando un entorno controlado para evaluar la resistencia frente a amenazas de este tipo. Es ideal para realizar auditorías de seguridad, pruebas de capacitaciones en ciberseguridad.
-
 >[!WARNING]
 >Esta herramienta se ha creado con fines educativos y de pruebas en entornos controlados. El uso no autorizado no es responsabilidad del desarrollador
 
