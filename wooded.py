@@ -44,8 +44,6 @@ parser.add_argument("-u", "--url", required=True, help="Insert a URL")
 parser.add_argument("-t", "--tree", action="store_true", help="Show directory tree")
 parser.add_argument("-f", "--file-details", action="store_true", help="Show file details")
 parser.add_argument("-g", "--get-url-file", action="store_true", help="Show full URLs for files")
-parser.add_argument("-d", "--download", action="store_true", help="Download listed files")
-
 
 args = parser.parse_args()
 
