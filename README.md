@@ -27,8 +27,7 @@ Este enfoque facilita el reconocimiento y mapeo de la superficie de ataque, perm
 ---
 
 ## Opciones de uso
-![Captura de pantalla](https://i.ibb.co/N6xXLf7z/rassssssss.png)
-
+![Captura de pantalla](https://github.com/user-attachments/assets/a79eec13-6013-406c-88b8-da0254bded15)
 ---
 
 ## Instalación y uso
